@@ -1,6 +1,6 @@
 # Another covid 19 tracker....
 
-This is the second covid 19 tracker made by me. By, there is a huge change this time. It is made with **Tkinter**. Old PyQt5 version here: *https://github.com/AmeyVijeesh/Covid-19-tracker*.
+This is the second covid 19 tracker made by me. It is made with **Tkinter**. Old PyQt5 version here: *https://github.com/AmeyVijeesh/Covid-19-tracker*.
 
 As you already know, the Covid 19 is a pandemic that has suspended us from our daily activities. If you want a **Covid 19 Tracker**, you have come to 
 the correct place. You can track the covid 19 cases of all the countries in the world with this app. Made using Tkinter, it is an easy to use app 
@@ -14,7 +14,6 @@ To install the covid module, type:
 
 ```
 pip install covid
-
 ```
 
 # 
